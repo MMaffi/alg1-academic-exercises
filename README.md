@@ -19,7 +19,7 @@ To start using the exercises in this repository, follow the steps below:
 1. **Clone the repository**:
    Clone the repository to your local environment:
    ```bash
-   git clone https://github.com/your-username/c-academic-exercises.git
+   git clone https://github.com/<your-username>/c-academic-exercises.git
    
 2. **Access the repository directory**:
    Go to the cloned repository directory:
