@@ -1,4 +1,4 @@
-# C Academic Exercises 📘
+# 📘 C Academic Exercises 📘
 
 This repository contains practical programming exercises in C developed throughout my **Information Systems** degree at **UFMS CPTL**. The goal of this repository is to consolidate fundamental concepts of the C language and best development practices, while also serving as a portfolio for continuous learning in the programming field.
 
